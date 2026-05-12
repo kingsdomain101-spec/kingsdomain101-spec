@@ -25,7 +25,7 @@ passionate about the intersection of clean code and robust digital security.
 - **HTML/CSS Specialist** - COITB
 
 ### 📈 Career Goal
-Following my service as a Signal Specialist in the Army, I am leveraging my discipline and technical expertise to transition into Software Engineering or DevSecOps. I am eager to contribute to a development team that values security, scalability
+##Following my service as a Signal Specialist in the Army, I am leveraging my discipline and technical expertise to transition into Software Engineering or DevSecOps. I am eager to contribute to a development team that values security, scalability
 and continuous improvement.
 ---
 
