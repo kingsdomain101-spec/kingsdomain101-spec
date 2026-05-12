@@ -34,7 +34,7 @@ I am a mission-driven developer focused on building secure, scalable application
 ### 📜 Certifications & Education
 * **B.S. Industrial Technology**
 * **Certified JavaScript Developer** – COITB
-* **HTML/CSS Specialist** – COITB
+* **HTML/CSS Specialist** – COITB https://www.credly.com/badges/faedd0bf-3db9-4774-ace4-e4ebf9233753/public_url
 
 ---
 
