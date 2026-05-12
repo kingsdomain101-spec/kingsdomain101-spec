@@ -19,16 +19,13 @@ passionate about the intersection of clean code and robust digital security.
 - ⚡ **Automation**: writing Python and Powershell scripts to streamline deployment workflows and system monitoring.
 
 
-
 ### 📜 Certifications
 - **Certified Javascript Developer** - COITB
 - **HTML/CSS Specialist** - COITB
 
 ### 📈 Career Goal
-##Following my service as a Signal Specialist in the Army, I am leveraging my discipline and technical expertise to transition into Software Engineering or DevSecOps. I am eager to contribute to a development team that values security, scalability
+Following my service as a Signal Specialist in the Army, I am leveraging my discipline and technical expertise to transition into Software Engineering or DevSecOps. I am eager to contribute to a development team that values security, scalability
 and continuous improvement.
----
-
 
 ### 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rameshguestene-mbonya-bate-102178216)
