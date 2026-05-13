@@ -39,4 +39,4 @@ I am a mission-driven developer focused on building secure, scalable application
 ---
 
 ### 📈 Let's Connect
-[LinkedIn](Your-URL) | [Portfolio Site](Your-URL) | [Email](mailto:your-email@example.com)
+[LinkedIn]www.linkedin.com/in/rameshguestene-mbonya-bate-102178216  | | [Email](r.g.bates@outlook.com)
