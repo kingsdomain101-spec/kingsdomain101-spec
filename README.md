@@ -39,4 +39,9 @@ I am a mission-driven developer focused on building secure, scalable application
 ---
 
 ### 📈 Let's Connect
-[LinkedIn]www.linkedin.com/in/rameshguestene-mbonya-bate-102178216  | | [Email](r.g.bates@outlook.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rameshguestene-mbonya-bate-102178216)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:r.g.bates@outlook.com)
+
+- **LinkedIn:** [rameshguestene-mbonya-bate](https://www.linkedin.com/in/rameshguestene-mbonya-bate-102178216)
+- **Email:** [r.g.bates@outlook.com](mailto:r.g.bates@outlook.com)
